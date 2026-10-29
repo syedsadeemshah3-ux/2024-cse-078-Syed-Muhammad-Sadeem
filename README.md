@@ -1,1 +1,3 @@
-# 2024-cse-078-Syed-Muhammad-Sadeem
+# Syed-Muhammad-Sadeem
+# hcicg-2024-cse-078
+C++/Python/WebGL
